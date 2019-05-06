@@ -29,7 +29,6 @@ I did not understand how Processing would be able to read the temperature measur
 
 ## Completed Work
 Video : https://youtu.be/SSyB2Fm2FzM
-![Visual Diagram](/images/HowItWorks.png)
 
 ## References and links
 - MPL3115A2 Tutorial https://learn.sparkfun.com/tutorials/installing-an-arduino-library Adafruit Library for Altimeter by Nathan Seidle
