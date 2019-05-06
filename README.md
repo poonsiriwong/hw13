@@ -13,11 +13,11 @@ Processing app that reads temperature measurements
 
 When your project is completed, you will then add the following sections:
 ## Timeline
-Week 0: Write Proposal 
-Week 1: Source parts for project : Altimeter, Arduino Breadboard, Wires
-Week 2: Got temperature sensor running to generate readings at 9600 baud (with Serial Monitor) 
-Week 3: Built Processing app and created Sweater and Shirt graphics
-Week 4: Present!
+Week 0: Write Proposal  <br />
+Week 1: Source parts for project : Altimeter, Arduino Breadboard, Wires <br />
+Week 2: Got temperature sensor running to generate readings at 9600 baud (with Serial Monitor)  <br />
+Week 3: Built Processing app and created Sweater and Shirt graphics <br />
+Week 4: Present! <br />
 
 # Challenges
 ## Challenge 1 : Wiring the Altimeter up
